@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A97BFF&repeat=false&width=435&height=45&lines=Hi+there!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A97BFF&vCenter=true&repeat=false&width=435&height=45&lines=Hi+there!)](https://git.io/typing-svg)
+--
 **About:** I'm a growing backend developer. On the side, I'm learning stuff like cybersecurity and DevOps.
 
 <div align="center">
@@ -33,7 +33,8 @@
 <div align="center">
 
 ### Stats
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvelle&layout=compact&hide_border=true&theme=transparent&title_color=c9c9c9&text_color=9a9a9a" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silvelle&layout=compact&hide_border=true&bg_color=00000000&title_color=8957E5&text_color=8B949E" />
 
 </div>
 
