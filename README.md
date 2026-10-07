@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A97BFF&repeat=false&width=435&height=45&lines=Hi+there!)](https://git.io/typing-svg)
---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A97BFF&repeat=false&width=435&height=45&lines=Hi+there!)](https://git.io/typing-svg)
+
 **About:** I'm a growing backend developer. On the side, I'm learning stuff like cybersecurity and DevOps.
 
 <div align="center">
@@ -19,11 +19,14 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/arch_linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![GoLand](https://img.shields.io/badge/goland-000000?style=for-the-badge&logo=goland&logoColor=white)
+
+![Neovim](https://img.shields.io/badge/Neovim-3a3f4b?style=for-the-badge&logo=neovim&logoColor=57A143)
 ![Android Studio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 </div>
 
